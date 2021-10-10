@@ -4,31 +4,31 @@ Atividade da faculdade de analise e desenvolvimento de sistema.
 
 O aplicativo teve como escolha o layout em branco por só conter uma única tela de visualização, como pode visualizar na imagem abaixo
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem1.png?raw=true">
 
 Os Assetes foram obtidos no site gratispng.com, procuramos imagens que trazia lembranças do antigo jogo Alex Kidd, assim com o efeito sonoro usado durante o app.
 
 Uma das manobras utilizada para armazenar os resultados e escolha dos jogadores foi o uso de Array e Matriz, por deixar o código mais limpo e de fácil compreensão.
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem2.png?raw=true">
 
 Sendo assim foi feito a declaração do Array para armazenar o resultado do jogo dos dois players (vale lembra que o uso só foi feito por achar melhor manter 1 item guardando o resultado de escolha do que múltiplos).
 
 Dentro da função de click, há todo o tratamento para a mudança de estado da aplicação, dentro dessa mudança foi efetuado a captura da escolha das jogadas.
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem3.png?raw=true">
 
 Foi feito a mesma coisa na função de Random, que está sendo usada para escolher a opção da máquina.
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem4.png?raw=true">
 
 Fazendo um contexto que o Cleverson normalmente usa e converter logica em números para melhor percepção, essa aplicação foi verificado um pequeno padrão onde foi utilizado para a construção do resultado dos jogos, isso é:
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem5.png?raw=true">
 
 Olhando a imagem acima notara que a escolha do resultante esquerdo se correlaciona com o resultante de cima, sendo assim, passando essa imagem para uma matriz:
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem6.png?raw=true">
 
 Se observar bem, convertendo pedra, papel e tesoura em números 0, 1, 2, podemos andar na matriz com as escolhas de cada jogador, isso é:
 
@@ -46,11 +46,11 @@ Se observar bem, convertendo pedra, papel e tesoura em números 0, 1, 2, podemos
 	Que é equivalente a Lose (perder).
 ```
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem6.png?raw=true">
 
 Para melhor exibição, foi colocado uma caixa de mensagem (Toast) para exibir o resultado do jogo.
 
-<img>
+<img href="https://github.com/iSherlott/JoKenPo_-_Mobile/blob/main/assets/Imagem7.png?raw=true">
 
 ## Biographia
 
@@ -63,3 +63,4 @@ Para melhor exibição, foi colocado uma caixa de mensagem (Toast) para exibir o
 <a href="https://github.com/iSherlott">Cleverson Silva<a>
 <a href="https://github.com/Gabrie2121">Gabriel Miranda<a>
 <a href="https://github.com/Carlos3108">Carlos Silva<a>
+<a href="https://github.com/MatFoxDie">Matheus Soares Camacho<a>
