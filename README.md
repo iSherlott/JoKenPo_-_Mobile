@@ -54,9 +54,9 @@ Para melhor exibição, foi colocado uma caixa de mensagem (Toast) para exibir o
 
 ## Biographia
 
-<a src="https://erickfraga.github.io/JO-KEN-PO/">erickfraga<a>
-<a src="https://www.passadefase.com/guia-de-conhecimento-gamer-alex-kidd-in-miracle-world"/>passadefase<a>
-<a src="https://www.gratispng.com">gratispng<a>
+<a href="https://erickfraga.github.io/JO-KEN-PO/">erickfraga<a><br />
+<a href="https://www.passadefase.com/guia-de-conhecimento-gamer-alex-kidd-in-miracle-world"/>passadefase<a><br />
+<a href="https://www.gratispng.com">gratispng<a><br />
 
 ## Creditos:
 
